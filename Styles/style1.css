@@ -1,0 +1,90 @@
+﻿body {
+	color : white;
+	margin-top: 0px;
+	background-image: -webkit-linear-gradient(bottom, rgb(83, 116, 221), rgb(177, 112, 43));
+	background-color: #E68A2E;
+	background-attachment: fixed;
+}
+
+h1.titre{
+	font-size : 31px;
+	color : orange;
+	text-align:center;
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+h1{
+	text-align:center;
+	text-shadow: 0.06em 0.06em 0.07em black;
+}
+
+h2{
+	text-align:center;
+	text-shadow: 0.06em 0.06em 0.07em black;
+}
+
+img.principale{
+	display: block;
+	margin: 0 auto;
+}
+
+div.clear{
+	clear: both;
+}
+
+strong#imp{
+	text-decoration:underline;
+}
+
+nav#menuAcceuil img{
+	height : 30px;
+	width : 30px;
+}
+
+nav#menuAcceuil{
+	margin: 0;
+	//opacity: 0.8;
+}
+
+#menuAcceuil ul{
+	width: 1380px;
+	list-style: none;
+	margin: 0 auto;
+	height: 60px;
+	//opacity: 0.6;
+}
+
+#menuAcceuil li {
+	float: left;
+	width: 145px;
+	height: 3px;
+	text-shadow: 0.06em 0.06em 0.07em black;
+}
+
+div.accesMembre{
+  position: absolute;
+  top: 11em;
+  left: 1%;
+  width: 18%;
+}
+
+div.lien{
+	text-shadow: 0.06em 0.06em 0.07em black;
+}
+
+nav.listeGauche{
+	text-shadow: 0.06em 0.06em 0.07em black;
+	list-style: none;
+}
+
+table{
+	margin: 1em 20%;
+}
+
+.texte{
+	margin: 1em 20%;
+}
+
+.texte1{
+	margin: 1em 25%;
+}
