@@ -1,4 +1,4 @@
-# Site d’Association – README
+# L1 - Association
 
 ## Description
 Le site web est une plateforme PHP/MySQL développée « from scratch » pour une association d’anciens étudiants.
@@ -10,7 +10,7 @@ Deux thèmes CSS offrent un choix de style, et le code intègre des fonctions ut
 ## Technologies et versions
 - **PHP** 5.5.x (extensions `mysql_*`, sessions, SNMP non utilisée ici)
 - **MySQL** 5.6 (base `association1`, tables `asso`, `posts`, `projets`, `dataposts`, `dataprojets`)
-- **HTML5** (<!DOCTYPE html>)
+- **HTML5**
 - **CSS3** (deux thèmes : `style1.css`, `style2.css`)
 - **JavaScript** minimal — shiv HTML5 pour anciennes versions d’IE
 - **MD5** pour hachage de mot de passe
