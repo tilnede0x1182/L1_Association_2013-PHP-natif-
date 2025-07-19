@@ -1,8 +1,11 @@
 # Site d’Association – README
 
 ## Description
-Site web PHP “maison” pour une association d’anciens étudiants.
-Permet aux membres de s’inscrire, se connecter, publier et gérer articles (“posts”) et projets, consulter les informations des autres membres, et personnaliser l’affichage.
+Le site web est une plateforme PHP/MySQL développée « from scratch » pour une association d’anciens étudiants.
+Les membres peuvent s’inscrire, se connecter et gérer leurs informations personnelles en toute sécurité.
+Ils ont la possibilité de publier, modifier et supprimer des articles ainsi que des projets, avec historique des modifications.
+Une interface simple permet de naviguer entre les listes de membres, d’articles et de projets, et d’afficher des détails sur chaque élément.
+Deux thèmes CSS offrent un choix de style, et le code intègre des fonctions utilitaires pour la gestion des dates et de l’affichage.
 
 ## Technologies et versions
 - **PHP** 5.5.x (extensions `mysql_*`, sessions, SNMP non utilisée ici)
