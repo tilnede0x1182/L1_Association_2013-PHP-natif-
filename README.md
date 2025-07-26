@@ -14,7 +14,6 @@ Deux thèmes CSS offrent un choix de style, et le code intègre des fonctions ut
 - **CSS3** (deux thèmes : `style1.css`, `style2.css`)
 - **JavaScript** minimal — shiv HTML5 pour anciennes versions d’IE
 - **MD5** pour hachage de mot de passe
-- Pas de framework (Laravel évoqué par erreur)
 
 ## Fonctionnalités implémentées
 1. **Inscription**
