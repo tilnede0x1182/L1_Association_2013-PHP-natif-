@@ -1,7 +1,7 @@
 # L1 - Association
 
 ## Description
-Le site web est une plateforme PHP/MySQL développée « from scratch » pour une association d’anciens étudiants.
+Le site web est une plateforme PHP/MySQL développée « from scratch » pour une association (fictive) d’anciens étudiants.
 Les membres peuvent s’inscrire, se connecter et gérer leurs informations personnelles en toute sécurité.
 Ils ont la possibilité de publier, modifier et supprimer des articles ainsi que des projets, avec historique des modifications.
 Une interface simple permet de naviguer entre les listes de membres, d’articles et de projets, et d’afficher des détails sur chaque élément.
